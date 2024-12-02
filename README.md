@@ -1,2 +1,2 @@
 # Zach-Data-Engineering-Bootcamp
-This repository contains to the homework given by Zach in it's bootcamp
+This repository contains the homework given by Zach in it's bootcamp
